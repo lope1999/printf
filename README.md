@@ -1,6 +1,6 @@
 printf
 
-A simple printf function built by Victor Chidi and Titilayo Akinde for Alx software Engineering School.
+A simple printf function built by SULIAT ALAGA and Peace Odulaja for Alx software Engineering School.
 
 Welcome
 
